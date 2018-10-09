@@ -124,12 +124,12 @@ Here are the options
 <tr>
   <td>GHC_VER</td>
   <td>GHC version to download or build</td>
-  <td>7.10.3</td>
+  <td>8.2.2</td>
 </tr>
 <tr>
   <td>CABAL_VER</td>
   <td>Version of cabal-install</td>
-  <td>1.22.8.0</td>
+  <td>2.0.0.1</td>
 </tr>
 <tr>
   <td>PREBUILT</td>
